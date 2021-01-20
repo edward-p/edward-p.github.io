@@ -10,10 +10,10 @@
     <lastBuildDate>Wed, 20 Jan 2021 20:01:37 +0800</lastBuildDate><atom:link href="https://blog.edward-p.xyz/tags/%E6%97%A5%E5%BF%97/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>拥抱 Hugo</title>
-      <link>https://blog.edward-p.xyz/posts/2021/01/%E6%8B%A5%E6%8A%B1-hugo/</link>
+      <link>https://blog.edward-p.xyz/posts/2021/01/hello-hugo/</link>
       <pubDate>Wed, 20 Jan 2021 20:01:37 +0800</pubDate>
       
-      <guid>https://blog.edward-p.xyz/posts/2021/01/%E6%8B%A5%E6%8A%B1-hugo/</guid>
+      <guid>https://blog.edward-p.xyz/posts/2021/01/hello-hugo/</guid>
       <description>新的开始，目前旧文章还没有迁移过来，有空再说（看心情）。。。。。。
 原来的 Hexo 博客主题太臃肿了，打算重新开始，所以顺手换个 Hugo 来试试。~好像很有道理~</description>
     </item>
