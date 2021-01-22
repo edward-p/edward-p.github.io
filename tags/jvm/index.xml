@@ -22,7 +22,7 @@
 于是才就有了热部署插件。
 JRebel 和 HotswapAgent 的区别  JRebel 更加成熟，支持更多框架和插件 JRebel 不开源，并且要价不菲！ JRebel 在热加载时会修改所有的字节码文件，因此必须要安装一个 IDE 插件才能使调试功能不受影响 HotswapAgent 只需要很简单的配置即可使用（甚至不需要写任何配置文件） HtoswapAgent 是基于 DCEVM (一款魔改增强的 JVM) 实现的，IDE 仍然可以使用 JDK 原生的 Debug 方式, 因此不需要安装额外的插件 HotswapAgent 是开源的！！！！  前置准备 (准备一个支持方法热加载的 JVM) DCEVM Dynamic Code Evolution VM (动态代码演化虚拟机) 项目地址
 是一款开源项目，旨在让 JVM 能够对方法新增和删除实现热加载
- 在该项目的 release 页面找到对应 JDK 版本的 Installer 使用 Installer 安装 DCEVM 到你的 JDK 环境中 通过在 VM Options 中加上 -XXaltjvm=dcevm 即可以 DCEVM 启动  问题是：DCEVM 支持的是 OpenJDK 而非 Oracle JDK ！！!</description>
+  在该项目的 release 页面找到对应 JDK 版本的 Installer</description>
     </item>
     
   </channel>
