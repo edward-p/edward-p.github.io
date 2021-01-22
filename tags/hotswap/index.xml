@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3dw42d-p&#39;5 8109</title>
-    <link>https://blog.edward-p.xyz/</link>
-    <description>Recent content on 3dw42d-p&#39;5 8109</description>
+    <title>Hotswap on 3dw42d-p&#39;5 8109</title>
+    <link>https://blog.edward-p.xyz/tags/hotswap/</link>
+    <description>Recent content in Hotswap on 3dw42d-p&#39;5 8109</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Fri, 22 Jan 2021 17:27:43 +0800</lastBuildDate><atom:link href="https://blog.edward-p.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Jan 2021 17:27:43 +0800</lastBuildDate><atom:link href="https://blog.edward-p.xyz/tags/hotswap/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HotswapAgent 简单使用</title>
       <link>https://blog.edward-p.xyz/posts/2021/01/hotswap-agent/</link>
@@ -23,16 +23,6 @@
 JRebel 和 HotswapAgent 的区别  JRebel 更加成熟，支持更多框架和插件 JRebel 不开源，并且要价不菲！ Jrebel 在热加载时会修改所有的字节码文件，因此必须要安装一个 IDE 插件才能使调试功能不受影响 HotswapAgent 只需要很简单的配置即可使用（甚至不需要写任何配置文件） HtoswapAgent 是基于 DCEVM (一款魔改增强的 JVM) 实现的，IDE 仍然可以使用 JDK 原生的 Debug 方式, 因此不需要安装额外的插件 HotswapAgent 是开源的！！！！  前置准备 (准备一个支持方法热加载的 JVM) DCEVM Dynamic Code Evolution VM (动态代码演化虚拟机) 项目地址
 是一款开源项目，旨在让 JVM 能够对方法新增和删除实现热加载
  在该项目的 release 页面找到对应 JDK 版本的 Installer 使用 Installer 安装 DCEVM 到你的 JDK 环境中 通过在 VM Options 中加上 -XXaltjvm=dcevm 即可以 DCEVM 启动  问题是：DCEVM 支持的是 OpenJDK 而非 Oracle JDK ！！!</description>
-    </item>
-    
-    <item>
-      <title>拥抱 Hugo</title>
-      <link>https://blog.edward-p.xyz/posts/2021/01/hello-hugo/</link>
-      <pubDate>Wed, 20 Jan 2021 20:01:37 +0800</pubDate>
-      
-      <guid>https://blog.edward-p.xyz/posts/2021/01/hello-hugo/</guid>
-      <description>新的开始，目前旧文章还没有迁移过来，有空再说（看心情）。。。。。。
-原来的 Hexo 博客主题太臃肿了，打算重新开始，所以顺手换个 Hugo 来试试。好像很有道理</description>
     </item>
     
   </channel>
