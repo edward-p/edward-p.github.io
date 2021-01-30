@@ -6,8 +6,67 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Fri, 22 Jan 2021 17:27:43 +0800</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2021 13:39:13 +0800</lastBuildDate>
         <atom:link href="https://blog.edward-p.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>使用 obs-rtspserver 进行 RTSP 推流</title>
+            <link>https://blog.edward-p.xyz/posts/2021/01/obs-rtspserver/</link>
+            <pubDate>Sat, 30 Jan 2021 13:39:13 +0800</pubDate>
+            
+            <guid>https://blog.edward-p.xyz/posts/2021/01/obs-rtspserver/</guid>
+            <description>为什么使用 RTSP RTSP 相比 RTMP 最大优点就在于延迟更低
+obs-rtspserver 一个 OBS Studio 插件，让 OBS Studio 能进行 RTSP 推流
+支持的平台 : Windows 7 、 Windows 8 、 Windows 10 和 Linux
+支持的 OBS Studio 版本 : 24.0.0+
+项目地址
+安装方式 首先你得装好 OBS Studio
+前往 obs-rtspserver 的 releases
+Linux 平台   下载附件中的 obs-rtspserver-v1.2.2-linux.tar.gz
+  创建文件夹：
+mkdir -p $HOME/.config/obs-studio/plugins   解压：
+tar -xzvf obs-rtspserver-v1.2.2-linux.tar.gz -C $HOME/.config/obs-studio/plugins/   Windows 平台   下载附件中的 obs-rtspserver-v1.</description>
+            <content type="html"><![CDATA[<h2 id="为什么使用-rtsp">为什么使用 RTSP</h2>
+<p>RTSP 相比 RTMP 最大优点就在于延迟更低</p>
+<h2 id="obs-rtspserver">obs-rtspserver</h2>
+<p>一个 OBS Studio 插件，让 OBS Studio 能进行 RTSP 推流</p>
+<p>支持的平台 : Windows 7 、 Windows 8 、 Windows 10 和 Linux</p>
+<p>支持的 OBS Studio 版本 : 24.0.0+</p>
+<p><a href="https://github.com/iamscottxu/obs-rtspserver">项目地址</a></p>
+<h2 id="安装方式">安装方式</h2>
+<p>首先你得装好 <a href="https://obsproject.com/">OBS Studio</a></p>
+<p>前往 obs-rtspserver 的 <a href="https://github.com/iamscottxu/obs-rtspserver/releases">releases</a></p>
+<h3 id="linux-平台">Linux 平台</h3>
+<ol>
+<li>
+<p>下载附件中的 <code>obs-rtspserver-v1.2.2-linux.tar.gz</code></p>
+</li>
+<li>
+<p>创建文件夹：</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">mkdir -p $HOME/.config/obs-studio/plugins
+</code></pre></div></li>
+<li>
+<p>解压：</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">tar -xzvf obs-rtspserver-v1.2.2-linux.tar.gz -C $HOME/.config/obs-studio/plugins/
+</code></pre></div></li>
+</ol>
+<h3 id="windows-平台">Windows 平台</h3>
+<ol>
+<li>
+<p>下载附件中的 <code>obs-rtspserver-v1.2.2-windows-installer.exe</code></p>
+</li>
+<li>
+<p>运行 <code>obs-rtspserver-v1.2.2-windows-installer.exe</code> 进行安装</p>
+</li>
+</ol>
+<h2 id="使用">使用</h2>
+<p>启动 OBS Studio</p>
+<p>选择菜单：Tools -&gt; TRSP Server</p>
+<p><img src="https://paste.edward-p.xyz/image/20210130140704.png" alt="20210130140704.png"></p>
+<p>设置端口，点击 Start 开始，即可开始推流</p>
+<p>支持 rtsp 协议的播放器 ( 推荐 <a href="https://www.videolan.org/vlc/index.html">VLC</a> ), 通过 URL <code>rtsp://&lt;主机地址&gt;:8554/live</code> 访问</p>
+]]></content>
+        </item>
         
         <item>
             <title>HotswapAgent 简单使用</title>

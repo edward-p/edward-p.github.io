@@ -4,7 +4,37 @@
   
   <url>
     <loc>https://blog.edward-p.xyz/</loc>
-    <lastmod>2021-01-22T17:27:43+08:00</lastmod>
+    <lastmod>2021-01-30T13:39:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.edward-p.xyz/tags/obs-studio/</loc>
+    <lastmod>2021-01-30T13:39:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.edward-p.xyz/posts/</loc>
+    <lastmod>2021-01-30T13:39:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.edward-p.xyz/tags/rtsp/</loc>
+    <lastmod>2021-01-30T13:39:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.edward-p.xyz/tags/streaming/</loc>
+    <lastmod>2021-01-30T13:39:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.edward-p.xyz/tags/</loc>
+    <lastmod>2021-01-30T13:39:13+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.edward-p.xyz/posts/2021/01/obs-rtspserver/</loc>
+    <lastmod>2021-01-30T13:39:13+08:00</lastmod>
   </url>
   
   <url>
@@ -29,16 +59,6 @@
   
   <url>
     <loc>https://blog.edward-p.xyz/tags/jvm/</loc>
-    <lastmod>2021-01-22T17:27:43+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.edward-p.xyz/posts/</loc>
-    <lastmod>2021-01-22T17:27:43+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.edward-p.xyz/tags/</loc>
     <lastmod>2021-01-22T17:27:43+08:00</lastmod>
   </url>
   
