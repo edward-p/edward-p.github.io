@@ -1,0 +1,37 @@
+.blogroll {
+  height: 120px;
+  padding: 10px 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-decoration: none;
+}
+
+.blogroll:hover {
+  cursor: pointer;
+}
+
+.blogroll:hover .blog {
+  opacity: 90%;
+}
+
+.blogroll:hover .bio {
+  opacity: 90%;
+}
+
+.blogroll .avatar {
+  float: left;
+  border-radius: 7.5%;
+  width: 100px;
+  height: 100px;
+  margin-right: 10px;
+}
+
+.blogroll .blog {
+  font-size: 22px;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.blogroll .bio {
+}

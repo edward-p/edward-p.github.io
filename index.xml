@@ -9,6 +9,16 @@
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Sat, 30 Jan 2021 13:39:13 +0800</lastBuildDate><atom:link href="https://blog.edward-p.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Blogroll</title>
+      <link>https://blog.edward-p.xyz/blogroll/</link>
+      <pubDate>Wed, 07 Jul 2021 22:44:47 +0800</pubDate>
+      
+      <guid>https://blog.edward-p.xyz/blogroll/</guid>
+      <description>以下排名不分先后
+ liolok 不是猫，那就只能叫他大黑狗啦   惠狐之书 (aka. Megumi fox) A fox called Megumi. 一只可爱的小狐狸。   OriginCode 札記 Let the bass kick!   初等記憶體 (aka. 艾雨寒) 一個你知道的地方，和一個沒有酒的故事。   weearc的个人博客 相离相惜莫相忘，且行且歌且珍惜   Nick’s Nichijou (aka. 妮可草) Golang / Rust / Nix{,OS}   Monlor&amp;#39;s Blog (aka. 萌勒君) 才疏学浅，但有一颗学习和折腾的心！   Bruce Z Blog (aka. Bruceutut) 兔兔被保护，有时也被迫害   傻狍子的小窝 (aka. Droid-MAX) 爱生活, 爱Coding, 做一个自由的小极客!   Alynx Zhou 周老师，日常使用的 DE 是 GNOME（日常遭到迫害）   本格异想录 (aka.</description>
+    </item>
+    
+    <item>
       <title>使用 obs-rtspserver 进行 RTSP 推流</title>
       <link>https://blog.edward-p.xyz/posts/2021/01/obs-rtspserver/</link>
       <pubDate>Sat, 30 Jan 2021 13:39:13 +0800</pubDate>

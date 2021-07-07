@@ -1,83 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>https://blog.edward-p.xyz/blogroll/</loc>
+    <lastmod>2021-07-07T22:44:47+08:00</lastmod>
+  </url><url>
     <loc>https://blog.edward-p.xyz/</loc>
     <lastmod>2021-01-30T13:39:13+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.edward-p.xyz/tags/obs-studio/</loc>
     <lastmod>2021-01-30T13:39:13+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.edward-p.xyz/posts/</loc>
     <lastmod>2021-01-30T13:39:13+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.edward-p.xyz/tags/rtsp/</loc>
     <lastmod>2021-01-30T13:39:13+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.edward-p.xyz/tags/streaming/</loc>
     <lastmod>2021-01-30T13:39:13+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.edward-p.xyz/tags/</loc>
     <lastmod>2021-01-30T13:39:13+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.edward-p.xyz/posts/2021/01/obs-rtspserver/</loc>
     <lastmod>2021-01-30T13:39:13+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.edward-p.xyz/tags/dcevm/</loc>
     <lastmod>2021-01-22T17:27:43+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.edward-p.xyz/tags/hotswap/</loc>
     <lastmod>2021-01-22T17:27:43+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.edward-p.xyz/posts/2021/01/hotswap-agent/</loc>
     <lastmod>2021-01-22T17:27:43+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.edward-p.xyz/tags/java/</loc>
     <lastmod>2021-01-22T17:27:43+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.edward-p.xyz/tags/jvm/</loc>
     <lastmod>2021-01-22T17:27:43+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.edward-p.xyz/posts/2021/01/hello-hugo/</loc>
     <lastmod>2021-01-20T20:01:37+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.edward-p.xyz/tags/%E6%97%A5%E5%BF%97/</loc>
     <lastmod>2021-01-20T20:01:37+08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.edward-p.xyz/blog/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.edward-p.xyz/series/</loc>
   </url>
-  
 </urlset>
